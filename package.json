@@ -1,0 +1,25 @@
+{
+  "name": "web-video-converter",
+  "version": "1.0.0",
+  "description": "Convert avi and mov to mp4, webm, and ogv formats with compression in 1 command",
+  "main": "vc.js",
+  "dependencies": {
+    "html5-media-converter": "^0.0.2",
+    "commander": "^2.9.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Sherrill",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmndo/web-video-converter"
+  },
+  "bugs": {
+    "url": "https://github.com/cmndo/web-video-converter/issues"
+  },
+  "homepage": "https://github.com/cmndo/web-video-converter"
+}
