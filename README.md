@@ -6,11 +6,13 @@ I'm running windows, but I have a mac to test with also.
 INSTALLING
 
 Windows Installation( WORK IN PROGRESS)
+
 1. Download a static build of ffmpeg from https://ffmpeg.zeranoe.com/builds/
 2. Add the folder that contains ffmpeg.exe to your system path - http://www.computerhope.com/issues/ch000549.htm
 
 
 Mac Installation(WORK IN PROGRESS)
+
 1. Download a static build of ffmpeg from http://johnvansickle.com/ffmpeg/
 2. Uncompress the .tar.xz with your preferred tool.
 3. Add the folder that contains ffmpeg to your system path - http://architectryan.com/2012/10/02/add-to-the-path-on-mac-os-x-mountain-lion/#.V7RzL1UrKHs
@@ -19,6 +21,7 @@ Mac Installation(WORK IN PROGRESS)
 SETUP
 
 Both OS's Setup
+
 1. Install Node and NPM if you don't have them already - https://docs.npmjs.com/getting-started/installing-node
 2. Open Terminal and cd to this repo.
 3. run `npm install`
@@ -26,6 +29,7 @@ Both OS's Setup
 
 
 Windows Setup Next Steps
+
 1. Write a bash script to run `web-video-converter\vc.js`
 
 vc.bat
