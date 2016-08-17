@@ -33,8 +33,8 @@ vc.bat
 
 2. Make a folder for scripts (if you don't have one already). Mine is C:/scripts and save vc.bat inside of it
 3. Add C:/scripts to your system path in the same way you did when installing.
-4. Use ContextEdit (http://www.softpedia.com/get/System/OS-Enhancements/ContextEdit.shtml) to create a link to `C:/scripts/vc.bat` 
-5. I added a Shell command to VLC media file (.mov) 
+4. Use ContextEdit (http://www.softpedia.com/get/System/OS-Enhancements/ContextEdit.shtml) to create a link to `C:/scripts/vc.bat`
+5. I added a Shell command to VLC media file (.mov)
 	Menu text: `Video Converter (mp4, ogv, webm)`
 	Command line: `"C:\scripts\vc.bat" "-f" "%1"`
 
@@ -44,7 +44,7 @@ That's the gist. That way I can simply right click on a file, select "Video Conv
 
 
 Mac Setup Next Steps
-1. Not here yet.
+1. Not here yet. - Here's sort of a way to start http://www.hongkiat.com/blog/customize-mac-right-click-menu/
 
 
 
