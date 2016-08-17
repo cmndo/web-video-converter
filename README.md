@@ -50,7 +50,7 @@ That's the gist. That way I can simply right click on a file, select "Video Conv
 Mac Setup Next Steps
 1. Not here yet. - Here's sort of a way to start http://www.hongkiat.com/blog/customize-mac-right-click-menu/
 
-
+Here's sort of an idea using Automator - http://undefinedvalue.com/2013/03/01/os-x-automator-service-reformatting-json-text
 
 
 So as you can tell, I have some work to do before this is easy for other people to implement. If there's some other tool that will simply execute what I want, that'd be better. But this works great for me on my Windows 10 machine.
